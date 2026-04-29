@@ -1,17 +1,26 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Creación de contenido digital estratégico.',
+    Description:
+      'El componente formativo aborda el desarrollo de contenido digital aplicado a redes sociales, mediante el uso de herramientas tecnológicas, estrategias de comunicación, palabras clave y modelos de negocio, con el fin de fortalecer la presencia digital de una marca.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-4.png'),
       },
     ],
   },
@@ -31,13 +40,39 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Herramientas digitales para la creación de contenido',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Clasificación de herramientas digitales',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo:
+              'Características, usos y selección de herramientas según el objetivo de comunicación',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Tipos de herramientas digitales según su función',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Aplicación de herramientas en la creación de contenido',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Criterios para la selección de herramientas digitales',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.6',
+            titulo: 'Aplicación práctica: creación de contenido digital',
+            hash: 't_1_6',
           },
         ],
       },
@@ -45,14 +80,122 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Contenido digital en redes sociales',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Aplicación práctica: creación de calendarios de contenido',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Construcción de contenido digital',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Criterios para definir el contenido digital',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Aplicación práctica: planificación de contenido digital',
+            hash: 't_2_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Construcción del contenido digital',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Desarrollo de tipos de contenido digital',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Aplicación de la estrategia de contenido',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Creación de imágenes para redes sociales (paso a paso)',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Edición básica de video para redes sociales',
+            hash: 't_3_4',
+          },
+          {
+            numero: '3.5',
+            titulo: 'Escritura de copies efectivos (<em>captions</em>)',
+            hash: 't_3_5',
+          },
+          {
+            numero: '3.6',
+            titulo: '<em>Storytelling</em> aplicado a redes sociales',
+            hash: 't_3_6',
+          },
+          {
+            numero: '3.7',
+            titulo: 'Aplicación práctica: creación de contenido completo',
+            hash: 't_3_7',
+          },
+          {
+            numero: '3.8',
+            titulo: 'Errores comunes en la creación de contenido visual',
+            hash: 't_3_8',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Modelo de negocio y contenido digital	',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Actividad práctica',
+            hash: 't_4_1',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Palabras clave y posicionamiento',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Aplicación práctica: posicionamiento en redes sociales',
+            hash: 't_5_1',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Aplicación de herramientas y contenido digital	',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Aplicación práctica',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: 'Evaluación del contenido digital',
+            hash: 't_6_2',
+          },
+        ],
       },
     ],
     subMenu: [
