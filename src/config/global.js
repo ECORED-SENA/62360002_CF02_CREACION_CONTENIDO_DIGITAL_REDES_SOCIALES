@@ -253,14 +253,111 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Canal digital',
+      significado:
+        'medio utilizado para comunicar, vender o interactuar con los usuarios a través de dispositivos electrónicos como computadoras, tabletas o celulares.',
+    },
+    {
+      termino: 'Carrusel',
+      significado:
+        'formato de contenido que permite publicar varias imágenes o videos en una sola publicación dentro de redes sociales.',
+    },
+    {
+      termino: 'Copy',
+      significado:
+        'texto persuasivo que acompaña una publicación digital y busca comunicar un mensaje, atraer al público y generar una acción.',
+    },
+    {
+      termino: 'Contenido digital',
+      significado:
+        'información creada y difundida en medios digitales con el propósito de comunicar, informar, entretener o promocionar productos o servicios.',
+    },
+    {
+      termino: 'Curaduría de contenido',
+      significado:
+        'selección y adaptación de información de otras fuentes para compartirla con una audiencia específica.',
+    },
+    {
+      termino: 'Engagement (interacción)',
+      significado:
+        'nivel de participación y compromiso de los usuarios con una marca a través de acciones como comentarios, “me gusta” o compartidos.',
+    },
+    {
+      termino: 'Estrategia de contenido',
+      significado:
+        'planificación organizada de publicaciones digitales alineadas con los objetivos de la marca y las características del público objetivo.',
+    },
+    {
+      termino: 'Formato digital',
+      significado:
+        'forma en que se presenta el contenido en medios digitales, como imagen, video, texto o audio.',
+    },
+    {
+      termino: 'Herramientas digitales',
+      significado:
+        'aplicaciones o plataformas tecnológicas que permiten crear, editar, publicar y analizar contenido digital.',
+    },
+    {
+      termino: 'Modelo de negocio',
+      significado:
+        'estructura que define como una empresa crea, entrega y genera valor a sus clientes.',
+    },
+    {
+      termino: 'Palabras clave',
+      significado:
+        'términos utilizados para identificar, posicionar y facilitar la búsqueda de contenido en plataformas digitales.',
+    },
+    {
+      termino: 'Posicionamiento',
+      significado:
+        'capacidad de una marca o contenido para ser visible y reconocida en la mente del público dentro de entornos digitales.',
+    },
+    {
+      termino: 'Propuesta de valor',
+      significado:
+        'beneficio principal que una marca ofrece y que la diferencia de la competencia.',
+    },
+    {
+      termino: 'Redes sociales',
+      significado:
+        'plataformas digitales que permiten la interacción, comunicación y difusión de contenido entre usuarios.',
+    },
+    {
+      termino: 'Storytelling',
+      significado:
+        'técnica de comunicación que utiliza historias para generar conexión emocional con el público.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Clientify. (2024, agosto 13). ¿Qué es el engagement? Medición y casos de éxito.',
+      link: 'https://clientify.com/blog/que-es-engagement-medicion-casos-exito',
+    },
+    {
+      referencia:
+        'Font, H. G. (2017, noviembre 22). ¿Qué es un canal digital? La guía definitiva. TELEMATEL.',
+      link: 'https://www.telematel.com/blog/canal-digital-que-es/',
+    },
+    {
+      referencia:
+        'Galán, J. S. (2022, noviembre 24). Posicionamiento. Economipedia.',
+      link: 'https://economipedia.com/definiciones/posicionamiento.html',
+    },
+    {
+      referencia:
+        'López, A. (2022, noviembre 11). ¿Qué es un copy y para qué sirve?. Hyliacom.',
+      link: 'https://hyliacom.es/que-es-un-copy-no-99/',
+    },
+    {
+      referencia:
+        'Romero, I. (2025, julio 11). Qué es un carrusel en Instagram y cómo hacerlo paso a paso. Metricool.',
+      link: 'https://metricool.com/es/programar-carrusel-instagram/',
+    },
+    {
+      referencia: 'Sean. (2024, noviembre 12). Formato digital. FanRuan.',
+      link:
+        'https://www.fanruan.com/en/glossary/digital-transformation/digital-format',
     },
   ],
   creditos: [
