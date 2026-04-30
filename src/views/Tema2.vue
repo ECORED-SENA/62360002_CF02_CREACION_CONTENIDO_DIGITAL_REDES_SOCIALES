@@ -138,7 +138,8 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | Palabras clave o #[i hashtags]. 
+                | 
+                p.mb-0 Palabras clave o #[i hashtags]. 
             p.mb-3 Esta estructura permite organizar el contenido de forma clara y estratégica.
           .row(titulo="Ejemplo de calendario de contenido").ajuste-cajaAcordion
             p En la siguiente tabla se presenta un ejemplo de calendario de contenido:
@@ -260,9 +261,9 @@
                     td.texto-left Instagram
                   tr
                     td.ajuste-border-tabla.texto-left Miércoles
-                    td.ajuste-border-tabla.texto-left Video outfit
+                    td.ajuste-border-tabla.texto-left Video <i>outfit</i>
                     td.ajuste-border-tabla.texto-left Video
-                    td.texto-left TikTok
+                    td.texto-left <i>TikTok</i>
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left Viernes
                     td.ajuste-border-tabla.texto-left Promoción
@@ -397,7 +398,7 @@
         .row.align-items-center
           .col-xl-6.order-1.mb-4.mb-lg-0.p-5
             h4 Ejemplo
-            p Marca: Emprendimiento de ropa deportiva.
+            p Marca: emprendimiento de ropa deportiva.
             ul.fa-ul.estilo___ul.mb-0
               li.mb-0
                 span.fa-li

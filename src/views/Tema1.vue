@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 1
       h1 Herramientas digitales para la creación de contenido
-    p.mb-5 Las herramientas digitales son aplicaciones o plataformas que permiten crear, editar y publicar contenido como imágenes, videos y textos en medios digitales. Su uso en el marketing digital optimiza la producción de contenido, mejora su calidad y facilita la comunicación con el público, contribuyendo a estrategias más eficientes y alineadas con los objetivos de la marca.
+    p.mb-5 Las herramientas digitales son aplicaciones o plataformas que permiten crear, editar y publicar contenido como imágenes, videos y textos en medios digitales. Su uso en el <i>marketing</i> digital optimiza la producción de contenido, mejora su calidad y facilita la comunicación con el público, contribuyendo a estrategias más eficientes y alineadas con los objetivos de la marca.
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Clasificación de herramientas digitales
     .bg-1

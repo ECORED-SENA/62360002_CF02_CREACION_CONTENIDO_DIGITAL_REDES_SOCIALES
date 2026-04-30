@@ -13,7 +13,7 @@
         .col-xl-auto.order-1.order-lg-2
           figure
             img(src='@/assets/curso/temas/img107.png', alt='').m-auto
-    p.mb-5 En relación con esta temática, se profundizará en conocer los tipos de palabras clave, el uso de hashtags, el posicionamiento en redes sociales, la aplicación de palabras clave en el contenido digital y los criterios para el uso de palabras clave y posicionamiento.
+    p.mb-5 En relación con esta temática, se profundizará en conocer los tipos de palabras clave, el uso de #[i hashtags], el posicionamiento en redes sociales, la aplicación de palabras clave en el contenido digital y los criterios para el uso de palabras clave y posicionamiento.
     .row.justify-content-center
       .col-xl-10
         AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
@@ -34,7 +34,7 @@
                 | #[b Palabras clave de intención]: indican una acción o necesidad del usuario (ejemplo: comprar, aprender, mejorar).
           .row(titulo="Uso de <em>hashtags</em>").ajuste-cajaAcordion
             p Los #[i hashtags] son etiquetas utilizadas en redes sociales para clasificar y agrupar contenido bajo un mismo tema. Estos permiten que las publicaciones sean encontradas por usuarios interesados en temas específicos.
-            p El uso adecuado de hashtags permite:
+            p El uso adecuado de #[i hashtags] permite:
             ul.fa-ul.mb-3
               li.mb-0
                 span.fa-li
@@ -49,7 +49,7 @@
                   i.fas.fa-arrow-alt-circle-right
                 | Mejorar el posicionamiento en redes sociales.
           .row(titulo="Posicionamiento en redes sociales").ajuste-cajaAcordion
-            p.mb-3 El posicionamiento en redes sociales hace referencia a la capacidad que tiene una marca o contenido para ser visible y reconocido por los usuarios dentro de las plataformas digitales. Este posicionamiento depende de factores como el uso adecuado de palabras clave, hashtags, calidad del contenido y nivel de interacción con la audiencia.
+            p.mb-3 El posicionamiento en redes sociales hace referencia a la capacidad que tiene una marca o contenido para ser visible y reconocido por los usuarios dentro de las plataformas digitales. Este posicionamiento depende de factores como el uso adecuado de palabras clave, #[i hashtags], calidad del contenido y nivel de interacción con la audiencia.
           .row(titulo="Factores que influyen en el posicionamiento").ajuste-cajaAcordion
             p.mb-3 El posicionamiento en redes sociales se ve influenciado por los siguientes elementos:
             ul.fa-ul.mb-0
@@ -156,7 +156,7 @@
                       |  Aplicación: refuerza la identidad.  
     Separador
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.1 Aplicación práctica: posicionamiento en redes sociales
+      h2 5.1 Aplicación práctica: posicionamiento en redes sociales
     p.mb-5 Se invita a realizar la siguiente actividad práctica sobre posicionamiento en redes sociales:
     TabsB.color-acento-contenido(data-aos="zoom-in").mb-0
       .py-4.py-md-5(titulo="Actividad" :icono="require('@/assets/curso/temas/img21.svg')")
@@ -180,7 +180,7 @@
               li 
                 .lista-ol--cuadro__vineta
                   span 4
-                | Seleccione hashtags adecuados.
+                | Seleccione #[i hashtags] adecuados.
               li 
                 .lista-ol--cuadro__vineta
                   span 5

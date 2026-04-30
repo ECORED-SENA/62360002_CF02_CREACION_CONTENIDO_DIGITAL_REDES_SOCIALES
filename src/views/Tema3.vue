@@ -164,7 +164,7 @@
             h4.mb-4 Pódcast
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="Contenido informativo: fundamentos y práctica"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              :audio="require('@/assets/curso/podcast/podcast.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
       .col-xl-auto.d-none.d-xl-block
@@ -173,7 +173,7 @@
     p.mb-5 En el siguiente video se desarrollará un ejemplo de creación de contenido informativo. 
     figure(data-aos="zoom-in").mb-5
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/SzJIbxMrbLY?si=OFff7Hnv81VPgxQa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption(data-aos="zoom-in") #[b Video]. Ejemplo de creación de contenido informativo.
     .caja-tema3.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -1021,7 +1021,7 @@
                   img(src='@/assets/curso/temas/img84.png', alt='' style="max-width: 500px").m-auto
               .col-xl-6
                 h4 2. Identificar el producto o servicio
-                p.mb-0 Conjunto deportivo (leggins + #[i top]).
+                p.mb-0 Conjunto deportivo (#[i leggins +  top]).
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 figure
@@ -1035,7 +1035,7 @@
                   img(src='@/assets/curso/temas/img86.png', alt='' style="max-width: 500px").m-auto
               .col-xl-6
                 h4 4. Relacionar con el producto
-                p.mb-0 Post cuadrado (1:1), ideal para el #[i feed].
+                p.mb-0 #[iPost] cuadrado (1:1), ideal para el #[i feed].
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 figure
@@ -1049,7 +1049,7 @@
                   img(src='@/assets/curso/temas/img88.png', alt='' style="max-width: 500px").m-auto
               .col-xl-6
                 h4 6. Agregar mensaje emocional
-                p.mb-0 Se puede usar una plantilla fitness o diseño limpio.
+                p.mb-0 Se puede usar una plantilla #[i fitness] o diseño limpio.
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 figure
@@ -1157,7 +1157,7 @@
             li 
               .lista-ol--cuadro__vineta
                 span 3
-              |  Grabar clips cortos.
+              |  Grabar #[i clips] cortos.
             li 
               .lista-ol--cuadro__vineta
                 span 4
@@ -1165,7 +1165,7 @@
             li 
               .lista-ol--cuadro__vineta
                 span 5
-              |  Recortar clips.
+              |  Recortar #[i clips].
             li 
               .lista-ol--cuadro__vineta
                 span 6
@@ -1223,7 +1223,8 @@
                 li 
                   .lista-ol--cuadro__vineta
                     span 6
-                  | Incluir hashtags.
+                  | 
+                  p.mb-0 Incluir #[i hashtags].
           .col-xl-6
             p #[b Ejemplo]
             ul.fa-ul.estilo___ul.mb-4
@@ -1242,7 +1243,7 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | #Fitness #Entrenamiento”
+                | ##[i Fitness] #Entrenamiento”
             figure
               img(src='@/assets/curso/temas/img20.svg', alt='' style="width: 85px")
       .col-xl-auto.col-md-9(data-aos="fade-left")
@@ -1312,7 +1313,7 @@
               li 
                 .lista-ol--cuadro__vineta
                   span 2
-                | Escriba el #[i copy].
+                | Escriba el #[i  copy].
               li 
                 .lista-ol--cuadro__vineta
                   span 3
@@ -1320,7 +1321,7 @@
               li 
                 .lista-ol--cuadro__vineta
                   span 4
-                | Aplique #[i storytelling].
+                | Aplique #[i  storytelling].
           .col-lg-6.mb-4.mb-md-0.order-2
             figure
               img(src='@/assets/curso/temas/img97.png', alt="" style="max-width: 450px").m-auto
