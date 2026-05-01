@@ -125,11 +125,11 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | #[i Canva.]
+                  |  Canva.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | #[i Photoshop. ]
+                  | Photoshop. 
             .caja-tema1-1.mb-0
               h5 Uso:
               ul.fa-ul.estilo___ul.mb-0
@@ -159,22 +159,22 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | #[i CapCut.]
+                  | CapCut.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | #[i Inshot.]
+                  | Inshot.
             .caja-tema1-1.mb-0
               h5 Uso:
               ul.fa-ul.estilo___ul.mb-0
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | #[i Reels.]
+                  | Reels.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | #[i TikTok.]
+                  | TikTok.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
@@ -192,11 +192,11 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | #[i Meta Business Suite.]
+                  | Meta Business Suite.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | #[i Hootsuite.]
+                  | Hootsuite.
             .caja-tema1-1.mb-0
               h5 Uso:
               ul.fa-ul.estilo___ul.mb-0
@@ -250,22 +250,22 @@
                 th.texto-left Nivel
             tbody
               tr
-                td.ajuste-border-tabla.texto-left #[i Canva]
+                td.ajuste-border-tabla.texto-left Canva
                 td.ajuste-border-tabla.texto-left Diseño
                 td.ajuste-border-tabla.texto-left Crear imágenes
                 td.texto-left Básico
               tr.ajuste-color-tabla
-                td.ajuste-border-tabla.texto-left #[i Photoshop]
+                td.ajuste-border-tabla.texto-left Photoshop
                 td.ajuste-border-tabla.texto-left Diseño
                 td.ajuste-border-tabla.texto-left Edición profesional
                 td.texto-left Avanzado
               tr
-                td.ajuste-border-tabla.texto-left #[i CapCut]
+                td.ajuste-border-tabla.texto-left CapCut
                 td.ajuste-border-tabla.texto-left Video
                 td.ajuste-border-tabla.texto-left Edición rápida
                 td.texto-left Básico
               tr.ajuste-color-tabla
-                td.ajuste-border-tabla.texto-left #[i Meta Business]
+                td.ajuste-border-tabla.texto-left Meta Business
                 td.ajuste-border-tabla.texto-left Gestión
                 td.ajuste-border-tabla.texto-left Programación
                 td.texto-left Intermedio
