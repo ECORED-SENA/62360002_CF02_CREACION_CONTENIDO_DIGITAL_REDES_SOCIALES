@@ -153,11 +153,13 @@
               li 
                 .lista-ol--cuadro__vineta
                   span 7
-                | Escriba el  #[i  copy].
+                | 
+                p.mb-0 Escriba el  #[i  copy].
               li 
                 .lista-ol--cuadro__vineta
                   span 8
-                | Agregue <i>hashtags</i>.
+                | 
+                p.mb-0 Agregue <i>hashtags</i>.
           .col-lg-6.mb-4.mb-md-0.order-2
             figure
               img(src='@/assets/curso/temas/img111.png', alt="" style="max-width: 450px").m-auto

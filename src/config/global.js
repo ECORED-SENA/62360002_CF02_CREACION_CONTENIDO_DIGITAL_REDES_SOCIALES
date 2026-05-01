@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Creación de contenido digital estratégico.',
+    Name: 'Creación de contenido digital estratégico',
     Description:
       'El componente formativo aborda el desarrollo de contenido digital aplicado a redes sociales, mediante el uso de herramientas tecnológicas, estrategias de comunicación, palabras clave y modelos de negocio, con el fin de fortalecer la presencia digital de una marca.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -295,7 +295,7 @@ export default {
     {
       termino: 'Modelo de negocio',
       significado:
-        'estructura que define como una empresa crea, entrega y genera valor a sus clientes.',
+        'estructura que define cómo una empresa crea, entrega y genera valor a sus clientes.',
     },
     {
       termino: 'Palabras clave',

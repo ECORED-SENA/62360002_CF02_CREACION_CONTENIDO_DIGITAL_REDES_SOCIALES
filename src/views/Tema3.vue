@@ -1157,7 +1157,8 @@
             li 
               .lista-ol--cuadro__vineta
                 span 3
-              |  Grabar #[i clips] cortos.
+              |  
+              p.mb-0 Grabar #[i clips] cortos.
             li 
               .lista-ol--cuadro__vineta
                 span 4
@@ -1165,7 +1166,8 @@
             li 
               .lista-ol--cuadro__vineta
                 span 5
-              |  Recortar #[i clips].
+              |  
+              p.mb-0 Recortar #[i clips].
             li 
               .lista-ol--cuadro__vineta
                 span 6
@@ -1313,7 +1315,8 @@
               li 
                 .lista-ol--cuadro__vineta
                   span 2
-                | Escriba el #[i  copy].
+                | 
+                p.mb-0 Escriba el #[i  copy].
               li 
                 .lista-ol--cuadro__vineta
                   span 3
@@ -1321,7 +1324,8 @@
               li 
                 .lista-ol--cuadro__vineta
                   span 4
-                | Aplique #[i  storytelling].
+                | 
+                p.mb-0 Aplique #[i  storytelling].
           .col-lg-6.mb-4.mb-md-0.order-2
             figure
               img(src='@/assets/curso/temas/img97.png', alt="" style="max-width: 450px").m-auto
